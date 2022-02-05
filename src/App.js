@@ -2,7 +2,6 @@
 function App() {
   const baslik = "Ali Karakoç";
   let okunmaSayisi = 300;
-  const durum = true;
   return (
     <div className="App">
       <div className="content">
